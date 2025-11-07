@@ -4,7 +4,7 @@ services:
     env: docker
     region: oregon
     plan: free
-    repo: "REPLACE_WITH_GITHUB_REPO_URL"
+    repo: "https://github.com/bjack21/chatbot"
     branch: main
     dockerfilePath: Dockerfile
     buildCommand: ""
